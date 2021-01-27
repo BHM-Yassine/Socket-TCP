@@ -1,0 +1,2 @@
+Après avoir lancer un client Telnet et le programme client, le serveur ne peut pas répondre aux requêtes des 2 clients.
+La solution c'est d'utiliser les Threads.

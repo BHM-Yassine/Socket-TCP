@@ -1,0 +1,3 @@
+Q:	Tester en lançant plusieurs clients. Qu’est-ce que vous remarquez ?
+R:	Lorsqu'on lance 2 client à la fois, on remarque que le serveur réponds aussi au 2ème client
+	car le serveur ne crée pas une connexion avec le client.

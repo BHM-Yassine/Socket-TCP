@@ -1,0 +1,3 @@
+- Dégager les points faibles de ce serveur ?
+à la fin de chaque connexion le serveur termine la cnx et il 
+peut pas répondre une autre fois à un nouveau client.

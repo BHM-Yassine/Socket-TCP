@@ -1,0 +1,8 @@
+B)
+	Q:	Tester en lançant plusieurs clients. Qu’est-ce que vous remarquez ?
+	R:	Lorsqu'on lance 2 client à la fois, on remarque que le serveur répons aussi au 2ème client
+		car le serveur ne crée pas une connexion avec le client.
+		
+C)
+	Q:	Peut-on se connecter au programme serveur à l’aide de Telnet ?
+	R:	Non, Échec lors de la connexion.
